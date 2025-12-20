@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 1px solid rgb(1, 255, 22);
+}
+
+.row{
+    border: 1px dotted rgb(39, 24, 252);
+  
+}
+
+.col{
+    height: 100px;
+}

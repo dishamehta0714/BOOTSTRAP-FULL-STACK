@@ -1,0 +1,34 @@
+.container{
+    border: 1px solid black;
+    height: 700px;
+}
+
+.row{
+    border: 1px solid gray;
+    height: 400px;
+}
+
+.col-md-2{
+    border: 1px solid gray;
+    height: 300px;
+}
+
+#col-1{
+    border: 1px solid black;
+    background-color: rgb(76, 0, 255);
+}
+
+#col-2{
+    border: 1px solid black;
+    background-color:rgb(212, 230, 173);
+}
+
+#col-3{
+    border: 1px solid black;
+    background-color:rgb(210, 19, 121);
+}
+
+#col-4{
+    border: 1px solid black;
+    background-color:rgb(116, 0, 142);
+}

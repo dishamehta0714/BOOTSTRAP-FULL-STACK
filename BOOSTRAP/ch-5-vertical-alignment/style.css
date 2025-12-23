@@ -1,0 +1,34 @@
+.container{
+    border: 1px solid black;
+    height: 700px;
+}
+
+.row{
+    border: 1px solid gray;
+    height: 400px;
+}
+
+.col-md-2{
+    border: 1px solid gray;
+    height: 300px;
+}
+
+#col-1{
+    border: 1px solid black;
+    background-color: aqua;
+}
+
+#col-2{
+    border: 1px solid black;
+    background-color:lightblue;
+}
+
+#col-3{
+    border: 1px solid black;
+    background-color:lightpink;
+}
+
+#col-4{
+    border: 1px solid black;
+    background-color:lightsalmon;
+}

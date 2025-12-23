@@ -1,0 +1,59 @@
+.container{
+    border: 3px solid black;
+    height: 2500px;
+}
+
+.row{
+    border: 1px solid gray;
+    height: 1600px;
+
+}
+
+.row-1{
+    border: 1px solid red;
+    height: 300px;
+}
+
+.row-2{
+    border: 1px solid black;
+    height: 300px;
+}
+
+.col-md-2{
+    border: 1px solid gray;
+    height: 300px;
+  
+}
+.col-md-1{
+    border: 1px solid gray;
+}
+
+.col-md-3{
+    border: 1px solid black;
+}
+
+
+
+.col-md-4{
+    border: 1px solid gray;
+}
+
+#col-1{
+    border: 1px solid black;
+    background-color: aqua;
+}
+
+#col-2{
+    border: 1px solid black;
+    background-color:lightblue;
+}
+
+#col-3{
+    border: 1px solid black;
+    background-color:lightpink;
+}
+
+#col-4{
+    border: 1px solid black;
+    background-color:lightsalmon;
+}

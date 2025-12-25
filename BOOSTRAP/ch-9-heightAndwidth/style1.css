@@ -1,0 +1,20 @@
+
+
+.container{
+    border: 1px solid black;
+    height: 900px;
+    
+}
+
+.row{
+    border: 2px soli red;
+    height: 100px;
+    
+
+}
+
+.col-md-3{
+  
+    border: 1px solid gray;
+
+}

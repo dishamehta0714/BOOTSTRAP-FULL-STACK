@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+/* .container{
+    border: 1px solid black;
+    
+} */
+
+/* .row{
+    border: 1px solid gray;
+} */
+
+.col-md-6{
+    text-align: center;
+   height: 140px;
+   width: 600px;
+   border-radius: 90%;
+    border: 1px solid black;
+}

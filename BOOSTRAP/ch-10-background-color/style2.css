@@ -1,0 +1,20 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 1px solid black;
+    
+}
+
+.row{
+    border: 1px solid gray;
+}
+
+.col-md-6{
+   height: 100px;
+   width: 658px;
+    border: 1px solid black;
+}

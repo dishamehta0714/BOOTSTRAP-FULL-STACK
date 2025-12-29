@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 1px solid black;
+}
+
+.h1{
+    color: white;
+    background-color:skyblue;
+    height: 100px;
+}
+
+.fs-1{
+    color: white;
+    background-color: lightpink;
+    height: 100px;
+}
+
+
+.display-5{
+    color: black;
+    background-color: lightcyan;
+    height: 500px;
+
+}
+
+.display-4{
+    height: 500px;
+    color: black;
+    background-color: lightgoldenrodyellow;
+}
+
+
+.fw-bold{
+    height: 100px;
+    color: white;
+    background-color: lightseagreen;
+}
